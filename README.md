@@ -6,7 +6,6 @@ My experiments with LaTeX
 <h3 id="overview">Directories</h3>
 
 * Resume - Contains a semi-updated resume of my skills.
-* Test - Simple scratch-pad to be played on.
 
 <h3 id="latex">How to Compile LaTeX</h3>
 
